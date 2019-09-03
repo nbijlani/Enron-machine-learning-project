@@ -1,0 +1,12 @@
+List of references for Enron project:
+
+1. https://github.com/udacity/ud120-projects/issues/46
+2. http://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html
+3. http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+4. http://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
+5. http://scikit-learn.org/stable/auto_examples/plot_compare_reduction.html
+6. http://stackoverflow.com
+7. http://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html#sphx-glr-auto-examples-preprocessing-plot-scaling-importance-py
+8. http://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+9. https://en.wikipedia.org/wiki/Precision_and_recall
+10. https://discussions.udacity.com/t/valueerror-the-least-populated-class-in-y-has-only-1-member-which-is-too-few/44984
